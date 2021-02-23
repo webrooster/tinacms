@@ -10,7 +10,7 @@ tags:
   - nextjs
   - code
 ---
-# What is Next.js?
+# What is Next.js? Update
 
 Next.js (or next or nextjs however you choose to say it) is a popular meta-framework for [React](https://reactjs.org/ "React "). In the past few months, nextjs has sky-rocketed in popularity. Don't believe me just check out the npm downloads.  👇
 
